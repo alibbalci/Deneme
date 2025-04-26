@@ -1,2 +1,3 @@
 deneme dosyasını oluşturuldu . 
 ikinci satir 
+branchde satır olusturuldu . 
